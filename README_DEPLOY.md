@@ -14,4 +14,4 @@ DeepSeek vs ChatGPT / DeepSeek 优势 / 流光AI 与 ChatGPT 比较 / AI 聚合�
 
 模板：`site_v1.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-deepseek-compare-chatgpt&utm_medium=referral&utm_campaign=deepseek-compare-chatgpt`
-最后更新：2026年07月29日
+最后更新：2026年08月01日
